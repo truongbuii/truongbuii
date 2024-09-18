@@ -38,3 +38,22 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🌟 About Some Stats
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongbuii&layout=compact&show_icon=true&theme=algolia" alt="truongbuii-langs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=truongbuii&layout=compact&show_icon=true&theme=algolia" alt="truongbui-stats"/>
+</div>
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=truongbuii&theme=algolia&background=0d1117&hide_border=true" />
+</div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/truongbuii/truongbuii/refs/heads/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/truongbuii/truongbuii/refs/heads/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/truongbuii/truongbuii/refs/heads/output/github-snake.svg" />
+  </picture>
+</div>
+<hr/>
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2024 Bui Nhat Truong truongbuii
+</div>
